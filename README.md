@@ -1,4 +1,3 @@
-# ML-Model- 1 - Global-life-expectancy-predictor
 # MODEL 1: Global Life Expectancy Predictor
 
 Welcome! This is **MODEL 1** in my Artificial Intelligence portfolio. In this project, I trained a **Machine Learning** algorithm capable of predicting a country's average life expectancy based on its schooling metrics.
